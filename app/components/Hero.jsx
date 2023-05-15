@@ -6,7 +6,7 @@ import { logo } from "../assets";
 import Image from "next/image";
 
 const Hero = () => {
-  const [show, setShow] = React.useState(true);
+  const [show, setShow] = React.useState(false);
 
   const showNotification = () => {
     setShow(true);
