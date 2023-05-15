@@ -15,7 +15,7 @@ Follow the steps below to get started with Snap Brief on your local machine:
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/snap-brief.
+git clone [https://github.com/ruckyTheWebDesigner/snapbrief](https://github.com/ruckyTheWebDesigner/snapbrief).
 
 
 2. Install the dependencies:
